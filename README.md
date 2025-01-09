@@ -22,7 +22,7 @@ A Python-based interactive tool to analyze disk usage on your system. This scrip
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ravikkr18/interactive-disk-usage-scanner.git
+   git clone https://github.com/ravikkr18/Interactive-Disk-Usage-Scanner.git
    cd interactive-disk-usage-scanner
-2. sudo python3 interactive_disk_usage_custom.py
+2. sudo python3 scan.py
 
